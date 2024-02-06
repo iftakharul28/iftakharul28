@@ -1,7 +1,15 @@
 Hi 👋 My name is Iftakharul Alam
 ================================
 ### Web Developer
-Hello! I really enjoy creating things that live on the internet. My interest in web development started back in 2017 when I decided to try editing custom animation WordPress themes — turns out hacking together a custom css button taught me a lot about HTML & CSS! Fast-forward to today, Now I am a React Developer and JAMstack HUGO Developer. I’ve the privilege of working at a JAMstack development agency, a start-up, huge corporation. My main focus these days is building accessible, responsible, SEO friendly web applications. Recently I have learned a lot about Nuxtjs in top of vuejs and nestjs, As a front-end developer, i have to learn a lot of things and I learning quickly..* 
+Greetings! I’m Iftakharul Alam, and I have a deep passion for crafting captivating web-based experiences. My journey into the world of web development commenced in 2017 when I took my first steps into customizing and animating WordPress themes.
+
+Over the years, I’ve been fortunate to collaborate with JAMstack development agencies, startups, and large corporations. These experiences have refined my skills and broadened my horizons, allowing me to contribute to a variety of innovative projects.
+
+My current role finds me at the forefront of web development as a React Developer within a reputable corporation. In this capacity, I’m committed to pushing the boundaries of what’s possible on the web.
+
+My primary focus revolves around developing web applications that embody key principles, including accessibility, responsiveness, and SEO optimization. I’m dedicated to creating digital solutions that not only captivate users but also enhance their experience
+
+As I continue my journey in web development, I remain enthusiastic about learning and adapting to new technologies and industry best practices. If you’re seeking a passionate and dedicated React Developer who can help bring your digital vision to life, I’d love to explore how we can collaborate on your next project. Let’ embark on this exciting web development journey together.* 
 
 * 🌍  I'm based in Bangladesh* 🖥️  
 * See my portfolio at [live](http://iftakharul-alam.vercel.app/)* ✉️  
