@@ -12,7 +12,7 @@ My primary focus revolves around developing web applications that embody key pri
 As I continue my journey in web development, I remain enthusiastic about learning and adapting to new technologies and industry best practices. If you’re seeking a passionate and dedicated React Developer who can help bring your digital vision to life, I’d love to explore how we can collaborate on your next project. Let’ embark on this exciting web development journey together.* 
 
 * 🌍  I'm based in Bangladesh* 🖥️  
-* See my portfolio at [live](http://iftakharul-alam.vercel.app/)* ✉️  
+* See my portfolio at [link]([http://iftakharul-alam.vercel.app/](https://iftakharulalam.com))* ✉️  
 * You can contact me at [iftakharul28@gmail.com](mailto:iftakharul28@gmail.com)
 
 ### Skills 
