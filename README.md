@@ -1,15 +1,15 @@
 Hi 👋 My name is Iftakharul Alam
 ================================
 ### Web Developer
-Greetings! I’m Iftakharul Alam, and I have a deep passion for crafting captivating web-based experiences. My journey into the world of web development commenced in 2017 when I took my first steps into customizing and animating WordPress themes.
+Greetings! I'm Iftakharul Alam, and I have a deep passion for crafting captivating web-based experiences. My journey into the world of web development commenced in 2017 when I took my first steps into customizing and animating WordPress themes.
 
-Over the years, I’ve been fortunate to collaborate with JAMstack development agencies, startups, and large corporations. These experiences have refined my skills and broadened my horizons, allowing me to contribute to a variety of innovative projects.
+Over the years, I've been fortunate to collaborate with JAMstack development agencies, startups, and large corporations. These experiences have refined my skills and broadened my horizons, allowing me to contribute to a variety of innovative projects.
 
-My current role finds me at the forefront of web development as a React Developer within a reputable corporation. In this capacity, I’m committed to pushing the boundaries of what’s possible on the web.
+My current role finds me at the forefront of web development as a React Developer within a reputable corporation. In this capacity, I'm committed to pushing the boundaries of what's possible on the web.
 
-My primary focus revolves around developing web applications that embody key principles, including accessibility, responsiveness, and SEO optimization. I’m dedicated to creating digital solutions that not only captivate users but also enhance their experience
+My primary focus revolves around developing web applications that embody key principles, including accessibility, responsiveness, and SEO optimization. I'm dedicated to creating digital solutions that not only captivate users but also enhance their experience
 
-As I continue my journey in web development, I remain enthusiastic about learning and adapting to new technologies and industry best practices. If you’re seeking a passionate and dedicated React Developer who can help bring your digital vision to life, I’d love to explore how we can collaborate on your next project. Let’ embark on this exciting web development journey together.* 
+As I continue my journey in web development, I remain enthusiastic about learning and adapting to new technologies and industry best practices. If you're seeking a passionate and dedicated React Developer who can help bring your digital vision to life, I'd love to explore how we can collaborate on your next project. Let's embark on this exciting web development journey together.
 
 * 🌍  I'm based in Bangladesh* 🖥️  
 * See my portfolio at [link]([http://iftakharul-alam.vercel.app/](https://iftakharulalam.com))* ✉️  
